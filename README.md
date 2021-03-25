@@ -4,3 +4,4 @@ This article is all about creating a simple chatting application using Node.JS, 
 Here we are going to implement our own chat application which completely depends on open source technologies and is extremely easy to implement. So before going for the actual implementation lets have a look basic components of this application.
 
 Demo: http://chatbox0.herokuapp.com/
+Web: https://javabeginnerstutorial.com/javascript-2/chatbox-a-peer-to-peer-chat-application/
